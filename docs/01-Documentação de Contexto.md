@@ -1,6 +1,6 @@
 # Introdução
 
-O ramo de Estacionamentos é um ramo de negócio que, em sua maioria, tem custos aceitáveis, visto que alguns estacionamentos são mais simples, contando com o espaço e cabine para o atendente, por exemplo. Nas grandes cidades, com o aumento no número de furtos de veículos, estacionar em locais seguros e adequados é uma comodidade que tem feito com que os estacionamentos tenha um crescimento econômico constante.
+  O ramo de Estacionamentos é um ramo de negócio que, em sua maioria, tem custos aceitáveis, visto que alguns estacionamentos são mais simples, contando com o espaço e cabine para o atendente, por exemplo. Nas grandes cidades, com o aumento no número de furtos de veículos, estacionar em locais seguros e adequados é uma comodidade que tem feito com que os estacionamentos tenha um crescimento econômico constante.
 
   Nesse cenário de constante crescimento, o projeto em questão tem como principal função desenvolver software que consiste em gerenciar o controle de estacionamentos. O software será capaz de informar a capacidade do local, calculo de horas de cada veiculo estacionado, as vagas vazias e as vagas ocupadas, etc.
 
