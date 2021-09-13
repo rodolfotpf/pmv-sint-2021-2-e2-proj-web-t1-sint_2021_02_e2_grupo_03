@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+# parking-admin
 
-`CURSO`
+Sistemas para Internet
 
-`DISCIPLINA`
+Projeto Web Front-End
 
-`SEMESTRE`
+2º SEMESTRE
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nathalia Assis Valentim
 
 ## Instruções de utilização
 
