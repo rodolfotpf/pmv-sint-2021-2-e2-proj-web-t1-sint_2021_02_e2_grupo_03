@@ -7,11 +7,8 @@
    O software se destina a empresas de diversos portes, como condomínios comerciais, hospitais, supermercados, que se preocupam em garantir uma prestação de serviço de qualidade e gerenciar de forma eficiente o negócio.  
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+   A preocupação com segurança, comodidade, tem aumentado e com isso serviços de estacionamentos tem tido maior procura.Com isso o problema a ser resolvido esta direcionado tanto ao cliente quanto ao dono do estabelecimento. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -20,26 +17,23 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+   O projeto tem como ponto principal o desenvolvimento de uma aplicação web para gerenciar controle de estacionamentos. 
+   
+   Desta forma, temos como objetivos específicos:
+   
+   * Desenvolver uma aplicação web que faça o controle de vagas ocupadas e vagas vazias;
+   * Desenvolver uma aplicação web que faça o controle de horas por veículo estacionado;
+   * Criar um sistema de facil entendimento para o usuário, e assim facilitar o gerenciamento do negócio.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+   O ramo de estacionamentos é importante uma vez que buscamos a segurançã, facilidade, comodidade. É um serviço que tem grande demanda e grande crescimento, tendo em visto por exemplo o  aumento de furtos de veículos. Com um mercado aquecido se torna muito importante ter um sistema que auxilie nesse gerenciamento para se obter um serviço de qualidade e pratico para quem o administre. 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+   O software se destina a empresas de diversos portes, como condomínios comerciais, hospitais, supermercados, que se preocupam em garantir uma prestação de serviço de qualidade e gerenciar de forma eficiente o negócio.  
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
