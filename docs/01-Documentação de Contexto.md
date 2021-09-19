@@ -23,7 +23,7 @@
 
 ## Justificativa
 
-   O ramo de estacionamentos é importante uma vez que buscamos a segurançã, facilidade, comodidade. É um serviço que tem grande demanda e grande crescimento, tendo em visto por exemplo o  aumento de furtos de veículos,dentre outros. Com um mercado aquecido se torna muito importante ter um sistema que auxilie nesse gerenciamento para se obter um serviço de qualidade e pratico para quem o administre. 
+   O ramo de estacionamentos é importante uma vez que buscamos a segurança, facilidade, comodidade. É um serviço que tem grande demanda e grande crescimento, tendo em visto por exemplo o  aumento de furtos de veículos,dentre outros. Com um mercado aquecido se torna muito importante ter um sistema que auxilie nesse gerenciamento para se obter um serviço de qualidade e pratico para quem o administre. 
 
 
 ## Público-Alvo
