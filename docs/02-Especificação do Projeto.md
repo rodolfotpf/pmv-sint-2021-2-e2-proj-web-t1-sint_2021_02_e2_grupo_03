@@ -2,7 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-  A preocupação com segurança, comodidade, tem aumentado e com isso serviços de estacionamentos tem tido maior procura.Com isso o problema a ser resolvido esta direcionado tanto ao cliente quanto ao dono do estabelecimento. Em relação ao cliente a aplicação web é voltada para a segurança e comodidade e em relação ao dono é a otimização do serviço prestado, gerando mais controle e facilidade, como por exemplo: controle de vagas disponíveis.
 ## Personas
 
 Marcelo tem 42 anos, é formado em administração de empresas e é gerente de um supermercado. Está em busca de um sistema para gerenciar o controle de estacionamento. 
