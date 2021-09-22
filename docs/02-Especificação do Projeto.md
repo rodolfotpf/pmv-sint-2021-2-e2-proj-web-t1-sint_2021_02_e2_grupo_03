@@ -15,7 +15,7 @@
     <th>Hobbies, História</th>
   </tr>
   <tr>
-    <td><img title="Fabiana Mendes" src="https://user-images.githubusercontent.com/81269204/134266920-6314cd46-df83-46fd-b995-847752947a2b.png"/></td>
+    <td><img title="Fabiana Mendes" src="https://user-images.githubusercontent.com/81269204/134266920-6314cd46-df83-46fd-b995-847752947a2b.png" width="150" height="150" /></td>
     <td>Fabiana Mendes</td>
     <td>
       <ul>
@@ -45,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td><img title="Marcos Ribeiro" src="https://user-images.githubusercontent.com/81269204/134266932-2ff4d7b2-88d3-4afb-bd14-0123dff9cc64.png"/>
+    <td><img title="Marcos Ribeiro" src="https://user-images.githubusercontent.com/81269204/134266932-2ff4d7b2-88d3-4afb-bd14-0123dff9cc64.png" width="150" height="150" />
     </td>
     <td>Marcos Ribeiro</td>
     <td>
@@ -76,7 +76,7 @@
     </td>
   </tr>
   <tr>
-    <td><img title="Eduardo Andrade" src="https://user-images.githubusercontent.com/81269204/134266945-326d0d0d-826c-4b16-87f3-dd1611b4bb74.png"/></td>
+    <td><img title="Eduardo Andrade" src="https://user-images.githubusercontent.com/81269204/134266945-326d0d0d-826c-4b16-87f3-dd1611b4bb74.png" width="150" height="150" /></td>
     <td>Eduardo Andrade</td>
     <td>
       <ul>
