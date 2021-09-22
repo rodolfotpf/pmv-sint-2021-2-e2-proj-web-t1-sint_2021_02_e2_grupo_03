@@ -14,9 +14,10 @@
     <th>Hobbies, História</th>
   </tr>
   <tr>
-    <td><img title="Fabiana Mendes" src="(https://user-images.githubusercontent.com/81269204/134431361-0ca967c2-f1af-49f3-96e9-17f724057e72.png" width="200" height="200" /></td>
+    <td><img title="Fabiana Mendes" src="(https://user-images.githubusercontent.com/81269204/134431361-0ca967c2-f1af-49f3-96e9-17f724057e72.png"/></td>
     <td>
       <ul>
+        <li>Fabiana Mendes</li>
         <li>42 anos</li>
         <li>Diretora Comercial e de Operações em uma grande rede de estacionamentos</li>
         <li>Mora em São Paulo - SP</li>
@@ -47,6 +48,7 @@
     </td>
     <td>
       <ul>
+        <li>Marcos Ribeiro</li>
         <li>45 anos</li>
         <li>Gerente Comercial e Marketing de uma rede de estacionamentos</li>
         <li>Mora em Belo Horizonte - MG</li>
@@ -76,6 +78,7 @@
     <td><img title="Eduardo Andrade" src="https://user-images.githubusercontent.com/81269204/134266945-326d0d0d-826c-4b16-87f3-dd1611b4bb74.png"/></td>
     <td>
       <ul>
+        <li>Eduardo Andrade</li>
         <li>34 anos</li>
         <li>Proprietário de um estacionamento de médio porte em Curitiba.</li>
         <li>Mora em Curitiba - PR</li>
