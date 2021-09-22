@@ -15,7 +15,7 @@
     <th>Hobbies, História</th>
   </tr>
   <tr>
-    <td><img title="Fabiana Mendes" src="https://user-images.githubusercontent.com/81269204/134266920-6314cd46-df83-46fd-b995-847752947a2b.png"/></td>
+    <td><img title="Fabiana Mendes" src="(https://user-images.githubusercontent.com/81269204/134431361-0ca967c2-f1af-49f3-96e9-17f724057e72.png"/></td>
     <td>Fabiana Mendes</td>
     <td>
       <ul>
