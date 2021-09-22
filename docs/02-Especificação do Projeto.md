@@ -7,7 +7,6 @@
 <table>
   <tr>
     <th>Foto</th>
-    <th>Nome</th>
     <th>Descrição</th>
     <th>Aplicativos</th>
     <th>Motivações</th>
@@ -16,7 +15,6 @@
   </tr>
   <tr>
     <td><img title="Fabiana Mendes" src="(https://user-images.githubusercontent.com/81269204/134431361-0ca967c2-f1af-49f3-96e9-17f724057e72.png" width="200" height="200" /></td>
-    <td>Fabiana Mendes</td>
     <td>
       <ul>
         <li>42 anos</li>
@@ -47,7 +45,6 @@
   <tr>
     <td><img title="Marcos Ribeiro" src="https://user-images.githubusercontent.com/81269204/134266932-2ff4d7b2-88d3-4afb-bd14-0123dff9cc64.png"/>
     </td>
-    <td>Marcos Ribeiro</td>
     <td>
       <ul>
         <li>45 anos</li>
@@ -77,7 +74,6 @@
   </tr>
   <tr>
     <td><img title="Eduardo Andrade" src="https://user-images.githubusercontent.com/81269204/134266945-326d0d0d-826c-4b16-87f3-dd1611b4bb74.png"/></td>
-    <td>Eduardo Andrade</td>
     <td>
       <ul>
         <li>34 anos</li>
